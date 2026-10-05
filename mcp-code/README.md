@@ -1,6 +1,6 @@
 # MCP: Runnable Examples
 
-These files go with `MCP.md` (one folder up). One small **Product Catalog** project grows step by step, from an empty server to a server with security improvements.
+These files go with `README.md` (one folder up). One small **Product Catalog** project grows step by step, from an empty server to a server with security improvements.
 
 | Item | Version used |
 |---|---|
